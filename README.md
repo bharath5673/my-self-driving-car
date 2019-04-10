@@ -1,7 +1,7 @@
 #self-driving-car
 ## #python #raspberrypi #windows10 #neuralnetwork #artificialintellegence #tensorflow #keras #opencv #c #arduino  
 
-# this runs on image preprocessing in OpenCV and using Keras (TensorFlow backend) to train a neural network that could drive this car,
+# this car runs on image preprocessing in OpenCV and using Keras (TensorFlow backend) to train a neural network that could drive this car,
 
 ![](images/IMG_20190224_180157.jpg)
 
