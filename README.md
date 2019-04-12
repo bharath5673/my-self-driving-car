@@ -29,6 +29,10 @@
 
 ![](images/IMG_20190402_164812.jpg)
 
+# training ....
+
+![](images/result.png)
+
 
 
 # predictions after trained
